@@ -176,7 +176,8 @@ public void onCreate(Bundle savedInstanceState)
         TileMe.setTileModeY(TileMode.MIRROR);
         /////////////////////////////////////////////
         TextLayout.setBackgroundDrawable(TileMe);
-
+        
+	// ugh, this should be dynamic, what was I thinking
         buttonA = (ImageButton) findViewById(R.id.buttonA);
         buttonB = (ImageButton) findViewById(R.id.buttonB);
         buttonC = (ImageButton) findViewById(R.id.buttonC);
@@ -516,7 +517,7 @@ protected void onResume()
     		}
 			
     	}
-
+	// more stuff that should be dynamic
     	if (lives == 10)
     	{
     		hangImage.setImageResource(R.drawable.hang10);
