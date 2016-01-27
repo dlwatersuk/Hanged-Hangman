@@ -1,0 +1,17 @@
+<resources>
+
+    <string name="app_name">Hanged!</string>
+    <string name="app_name_wrappable">Hanged!</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="title_activity_main_menu">MainMenu</string>
+    <string name="title_activity_unlockables">Unlockables</string>
+    <string name="title_activity_user_profile">UserProfile</string>
+    <string name="title_activity_menu">Menu</string>
+    <string name="title_activity_multi_play_word_choose">MultiPlayWordChoose</string>
+    <string name="title_activity_multi_play">MultiPlay</string>
+    <string name="title_activity_category_selector">CategorySelector</string>
+    <string name="title_activity_net_play">NetPlay</string>
+
+</resources>
